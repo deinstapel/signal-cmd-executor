@@ -1,0 +1,5 @@
+{
+  "signals": {
+    "USR1": "echo 'hallo'"
+  }
+}
